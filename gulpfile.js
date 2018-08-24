@@ -94,7 +94,7 @@ function browser_server() {
             port: 8081,
             middleware: [proxyAdtime]
         },
-        startPath: '/pages/'
+        startPath: '/pages/demo.html'
     });
 }
 

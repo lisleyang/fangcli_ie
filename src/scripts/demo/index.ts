@@ -1,4 +1,4 @@
-import {pre} from './util';
+import {pre} from '../util';
 
 class Test{
     name : string;

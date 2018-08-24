@@ -1,1 +1,0 @@
-{"version":3,"sources":["layout.less"],"names":[],"mappings":"AAAA,KACI,MAAA,MACA,OAAA,MACA,WAAA,WAHJ,WAMQ,cAAA","file":"../styles/layout.css","sourcesContent":["﻿.box{\n    width: 100px;\n    height: 100px;\n    box-sizing: border-box;\n\n    .ball{\n        border-radius: 50%;\n    }\n}"]}
