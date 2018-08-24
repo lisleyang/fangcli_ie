@@ -1,15 +1,12 @@
 {
     "compilerOptions": {
         "target": "ES3",
-        "sourceMap": true,
-        "module": "commonjs",
+        "module": "amd",
         "removeComments": true,
         "typeRoots": [
             "node_modules/@types"
         ],
         "types": [
-            "jquery",
-            "node"
         ]
     },
     "exclude": [
